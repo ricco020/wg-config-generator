@@ -2,7 +2,7 @@
 
 > CLI generator for WireGuard server + multi-client configurations, with QR code output, IPv4/IPv6 dual-stack support, and integrated firewall snippet generation.
 
-Companion editorial site: **[VPNSmith](https://www.vpnsmith.com/)** — VPS self-host VPN benchmarks.
+Companion editorial site: **[VPNSmith](https://www.vpnsmith.com/?src=github&ref=gh-wg-config-generat)** — VPS self-host VPN benchmarks.
 
 ## What it does
 
@@ -51,9 +51,9 @@ Keys are generated with `wg genkey` / `wg genpsk` (CryptoBox-compatible). Pre-sh
 ## Provider notes
 
 VPS-specific bootstrap snippets are documented separately at the editorial site:
-- [Self-host VPN on Contabo VPS — WireGuard guide](https://www.vpnsmith.com/en/self-host-vpn-contabo-wireguard-2026)
-- [Contabo vs Hetzner vs OVH benchmark](https://www.vpnsmith.com/en/contabo-vs-hetzner-vs-ovh-vps-vpn-2026)
-- [WireGuard vs OpenVPN performance benchmarks](https://www.vpnsmith.com/en/wireguard-vs-openvpn-vps-benchmarks-2026)
+- [Self-host VPN on Contabo VPS — WireGuard guide](https://www.vpnsmith.com/en/self-host-vpn-contabo-wireguard-2026?src=github&ref=gh-wg-config-generat)
+- [Contabo vs Hetzner vs OVH benchmark](https://www.vpnsmith.com/en/contabo-vs-hetzner-vs-ovh-vps-vpn-2026?src=github&ref=gh-wg-config-generat)
+- [WireGuard vs OpenVPN performance benchmarks](https://www.vpnsmith.com/en/wireguard-vs-openvpn-vps-benchmarks-2026?src=github&ref=gh-wg-config-generat)
 - [Methodology + DOI](https://doi.org/10.5281/zenodo.20512442)
 
 ## Dependencies
